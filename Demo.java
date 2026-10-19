@@ -1,3 +1,3 @@
 class Demo{
-  print("Hello world")
+  System.out.println("Hello world");  
 }
